@@ -231,7 +231,7 @@ gosling:
 
 
 
-![]({{https://verogutierrezasu.github.io/vero-beautiful-jekyll/}}/assets/img/ryan-v-ryan.jpg)  
+![]({{verogutierrezasu.github.io/vero-beautiful-jekyll/}}/assets/img/ryan-v-ryan.jpg)  
 
 
 ## Lorem Ipsum
