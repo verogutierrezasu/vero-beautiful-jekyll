@@ -224,7 +224,7 @@ gosling:
   - not ryan reynolds
 ---
 
-![]assets/img/ryan-v-ryan.jpg)
+![](assets/img/ryan-v-ryan.jpg)
 
 
 ## Lorem Ipsum
