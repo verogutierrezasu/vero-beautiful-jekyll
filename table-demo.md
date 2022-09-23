@@ -1,6 +1,11 @@
+
 ---
-layout: nice-text
+layout: default
 ---
+
+ Amiright?
+      
+
   
   ![](assets/img/ryan-v-ryan.jpg)  
 
