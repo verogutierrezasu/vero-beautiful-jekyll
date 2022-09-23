@@ -1,11 +1,6 @@
 ---
 layout: nice-text
 ---
-  
-{{ content }}
-
-
-
 
 <h2> Ryan vs Ryan: Liquid Table Demo </h2>
 
@@ -205,7 +200,8 @@ layout: nice-text
 
        ###
        ###  LIQUID TAG TABLE IN LAYOUT
-       ###---
+      ###---
+      
 layout: liquid-table
 title: 'amiright?'
 reynolds:
@@ -228,10 +224,7 @@ gosling:
   - not ryan reynolds
 ---
 
-
-
-
-![]({{verogutierrezasu.github.io/vero-beautiful-jekyll/}}/assets/img/ryan-v-ryan.jpg)  
+![]assets/img/ryan-v-ryan.jpg)
 
 
 ## Lorem Ipsum
