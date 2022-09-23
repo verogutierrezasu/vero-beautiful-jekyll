@@ -105,6 +105,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <code>
 
  ###
+    ###
     ###  LAYOUT INHERITANCE
     ###
     ###  pages built by adding elements 
