@@ -1,3 +1,5 @@
+![](assets/img/ryan-v-ryan.jpg) 
+
 ---
 layout: liquid-table
 title: 'amiright?'
